@@ -12,7 +12,7 @@
 <p>- 📫 How to reach me <strong>anggisdar@gmail.com</strong></p>
   
 # 💫 About Me:
-🚀 Currently Working On: Developing backend APIs.<br>🤝 Looking to Collaborate On: Open-source backend projects, RESTful APIs, or GraphQL services using Gin and Gorm.<br>💡 Looking for Help With: Optimizing database queries and caching strategies using Gorm.<br>🌱 Currently Learning: Advanced Golang concepts for backend development.<br>💬 Ask Me About: Debugging and performance tuning in Golang.<br>🌐 Fun Fact: I’m interested in crypto and Web3
+🚀 Currently Working On: Developing backend APIs.<br>🤝 Looking to Collaborate On: Open-source backend projects, RESTful APIs, or GraphQL services using Gin and Gorm.<br>💡 Looking for Help With: Optimizing database queries.<br>🌱 Currently Learning: Advanced Golang concepts for backend development.<br>💬 Ask Me About: Debugging and performance tuning in Golang.<br>🌐 Fun Fact: I’m interested in crypto and Web3
 
 
 ## 🌐 Socials:
